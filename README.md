@@ -11,8 +11,7 @@ The primary package used for implementing JWT in Laravel is called "tymon/jwt-au
 - [get official docs](https://jwt-auth.readthedocs.io/en/develop).
 
 ## JWT Installation
-1. Run the following command to pull in the latest version:
-2. </br>
+1. Run the following command to pull in the latest version:</br>
         composer require tymon/jwt-auth
 2. Add the service provider to the providers array in the config/app.php config file as follows:
         'providers' => [
