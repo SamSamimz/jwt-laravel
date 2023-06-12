@@ -1,8 +1,3 @@
-<style>
-p {
-    background-color: red;
-}
-</style>
 <p align="center"><a href="https://laravel.com" target="_blank"><img height="300" width="500" src="https://cloud.githubusercontent.com/assets/1801923/9915273/119b9350-5cae-11e5-850b-c941cac60b32.png"/></a></p>
 
 
