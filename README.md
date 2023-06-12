@@ -8,4 +8,4 @@ Laravel JWT (JSON Web Token) is a popular package used in Laravel applications t
 
 The primary package used for implementing JWT in Laravel is called "tymon/jwt-auth." This package integrates seamlessly with Laravel's authentication system, allowing you to generate JWTs for authenticated users and protect routes based on token authentication.
 
-<p align="center">- [Read Official Docs](https://jwt-auth.readthedocs.io/en/develop).</p>
+<a align="center" href="https://jwt-auth.readthedocs.io/en/develop">Read Official Docs</p>
